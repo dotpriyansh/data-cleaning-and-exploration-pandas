@@ -16,7 +16,6 @@ The assignment focuses on:
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Jupyter Notebook
 
 ---
