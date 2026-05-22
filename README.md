@@ -100,7 +100,7 @@ cleaned_dataset.csv
 ### Install Dependencies
 
 ```bash
-pip install pandas numpy jupyter
+pip install pandas jupyter
 ```
 
 ### Run Notebook
