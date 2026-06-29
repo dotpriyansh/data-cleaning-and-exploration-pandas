@@ -95,34 +95,5 @@ cleaned_dataset.csv
 
 ---
 
-## How to Run
-
-### Install Dependencies
-
-```bash
-pip install pandas jupyter
-```
-
-### Run Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-data_cleaning_assignment.ipynb
-```
-
----
-
-## Output
-- Cleaned dataset CSV file
-- Jupyter Notebook containing all preprocessing steps
-- Summary of data cleaning operations
-
----
-
 ## Author
 Priyansh Ahlawat
